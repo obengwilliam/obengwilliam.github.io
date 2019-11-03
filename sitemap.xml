@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://obengwilliam.github.io/</loc>
-    <priority>0</priority>
+    <loc>https://williamobeng.com/about/</loc>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://obengwilliam.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://williamobeng.com/</loc>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://obengwilliam.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://williamobeng.com/tags/</loc>
   </url>
   
 </urlset>

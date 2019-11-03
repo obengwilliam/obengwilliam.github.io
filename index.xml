@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://obengwilliam.github.io/</link>
-    <description>Recent content on </description>
+    <title>William Obeng</title>
+    <link>https://williamobeng.com/</link>
+    <description>Recent content on William Obeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
-	<atom:link href="https://obengwilliam.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://williamobeng.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://williamobeng.com/about/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      
+      <guid>https://williamobeng.com/about/</guid>
+      <description>This is some static page where you can write about yourself.</description>
+    </item>
     
   </channel>
 </rss>
